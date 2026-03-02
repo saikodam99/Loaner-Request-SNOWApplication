@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="items_type" table="x_1910556_loaner_0_loaner_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>items_type</element>
+            <name>x_1910556_loaner_0_loaner_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-02 09:00:57</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>items_type</sys_name>
+            <sys_package display_value="Loaner Request" source="x_1910556_loaner_0">64578e7e83d332103400c070ceaad3b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">64578e7e83d332103400c070ceaad3b9</sys_scope>
+            <sys_update_name>sys_choice_x_1910556_loaner_0_loaner_request_items_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-02 09:00:57</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>items_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Laptop</label>
+            <language>en</language>
+            <name>x_1910556_loaner_0_loaner_request</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-02 09:00:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-02 09:00:56</sys_updated_on>
+            <value>cmdb_ci_computer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>items_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mobile Phone</label>
+            <language>en</language>
+            <name>x_1910556_loaner_0_loaner_request</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-02 09:00:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-02 09:00:57</sys_updated_on>
+            <value>cmdb_ci_device</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>items_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Projecter</label>
+            <language>en</language>
+            <name>x_1910556_loaner_0_loaner_request</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-02 09:00:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-02 09:00:57</sys_updated_on>
+            <value>cmdb_ci_projector</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
