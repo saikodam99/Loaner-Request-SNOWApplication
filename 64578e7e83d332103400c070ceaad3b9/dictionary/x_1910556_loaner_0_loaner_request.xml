@@ -22,6 +22,7 @@
                 <element inactive_on_update="false" label="Laptop" sequence="0" value="cmdb_ci_computer"/>
             </choice>
         </element>
+        <element label="Other" max_length="40" name="other" type="string"/>
         <element label="End date" mandatory="true" max_length="255" name="end_date" type="glide_date_time"/>
         <element label="Start date" mandatory="true" max_length="255" name="start_date" type="glide_date_time"/>
         <element label="Location to be used" max_length="40" name="location_to_be_used" type="string"/>
