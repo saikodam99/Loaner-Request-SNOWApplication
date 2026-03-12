@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1910556_loaner_0_loaner_task">x_1910556_loaner_0_loaner_task</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>LRT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-12 12:37:53</sys_created_on>
+        <sys_id>a88bcb4e83af76103400c070ceaad3d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LRT</sys_name>
+        <sys_package display_value="Loaner Request" source="x_1910556_loaner_0">64578e7e83d332103400c070ceaad3b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">64578e7e83d332103400c070ceaad3b9</sys_scope>
+        <sys_update_name>sys_number_a88bcb4e83af76103400c070ceaad3d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-12 12:37:53</sys_updated_on>
+    </sys_number>
+</record_update>

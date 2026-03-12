@@ -22,6 +22,7 @@
                 <element inactive_on_update="false" label="Laptop" sequence="0" value="cmdb_ci_computer"/>
             </choice>
         </element>
+        <element label="pick up reminder" max_length="255" name="pick_up_reminder" type="glide_date_time"/>
         <element label="Other" max_length="40" name="other" type="string"/>
         <element label="End date" mandatory="true" max_length="255" name="end_date" type="glide_date_time"/>
         <element label="Start date" mandatory="true" max_length="255" name="start_date" type="glide_date_time"/>

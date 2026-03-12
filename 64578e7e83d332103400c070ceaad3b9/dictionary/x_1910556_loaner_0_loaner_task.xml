@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="988bcb4e83af76103400c070ceaad317" extends="task" label="Loaner Task" max_length="40" name="x_1910556_loaner_0_loaner_task" type="collection">
+        <element choice="1" label="Task State" max_length="40" name="task_state" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>
