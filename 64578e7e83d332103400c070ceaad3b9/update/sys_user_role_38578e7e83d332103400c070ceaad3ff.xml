@@ -4,7 +4,6 @@
         <can_delegate>true</can_delegate>
         <description>Default user role</description>
         <elevated_privilege>false</elevated_privilege>
-        <federated_id>tWAWZoVcx2bVB/jbbTICtmUJwVIzJRi/6Se5U7XY2uc=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_1910556_loaner_0.user</name>

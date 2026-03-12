@@ -4,7 +4,6 @@
         <can_delegate>true</can_delegate>
         <description>Default admin role</description>
         <elevated_privilege>false</elevated_privilege>
-        <federated_id>uYP+jHh1zUru4sAs8TDoO4pBNHLkauCnohndyXog+Hg=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_1910556_loaner_0.admin</name>
