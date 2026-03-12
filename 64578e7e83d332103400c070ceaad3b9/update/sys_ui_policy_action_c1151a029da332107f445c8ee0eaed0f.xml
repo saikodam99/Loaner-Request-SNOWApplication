@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>other</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-12 08:40:44</sys_created_on>
+        <sys_id>c1151a029da332107f445c8ee0eaed0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_1910556_loaner_0">64578e7e83d332103400c070ceaad3b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">64578e7e83d332103400c070ceaad3b9</sys_scope>
+        <sys_update_name>sys_ui_policy_action_c1151a029da332107f445c8ee0eaed0f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-12 08:40:44</sys_updated_on>
+        <table>x_1910556_loaner_0_loaner_request</table>
+        <ui_policy display_value="Make other field visable and mandatory">aa9452029da332107f445c8ee0eaed86</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=c1151a029da332107f445c8ee0eaed0f"/>
+</record_update>
